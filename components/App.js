@@ -8,7 +8,7 @@ class App extends Component {
       <div>
         <h1>this my appppp</h1>
         <displayInput/>
-        <h2>a7a</h2>
+        
       </div>
     )
   }
